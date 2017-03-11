@@ -1,0 +1,38 @@
+.Link {
+  position: relative;
+  width: calc(100%);
+  text-align: left;
+  font-size: 15px;
+}
+
+#link {
+  position: relative;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+#link:visited {
+  color: purple;
+}
+
+#linkContainer {
+  position: relative;
+  left: 70px;
+  width: calc(100% - 70px);
+  margin-bottom: 50px;
+}
+
+#source {
+  position: relative;
+  font-size: 10px;
+  text-align: left;
+  font-weight: bold;
+  color: grey;
+}
+
+#img {
+  position: absolute;
+  height: 40px;
+  width: 60px;
+  top: 5px;
+}
