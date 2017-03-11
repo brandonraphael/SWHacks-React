@@ -26,11 +26,13 @@ cd MY_APP_NAME
 npm start
 ```
 
-## Creat Git Repo
+## Create Git Repo
 ```bash
 git init
 git remote add origin https://github.com/user/repo.git
+git pull origin master
 ```
+
 
 
 
