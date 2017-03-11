@@ -47,6 +47,11 @@ git commit -m "first commit"
 git push --set-upstream origin master
 ```
 
+## Install Jquery
+```bash
+npm install --save jquery
+```
+
 ## Install Surge.js and build your React app to display it on the web
 ```bash
 npm install --global surge
