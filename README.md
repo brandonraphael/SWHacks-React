@@ -2,6 +2,7 @@
 
 ## Install Atom
 https://atom.io/
+
 Atom should be usable from iterm, if it is not, try running this symlink command:
 ```bash
 ln -s /Applications/Atom.app/Contents/Resources/app/atom.sh /usr/local/bin/atom
@@ -57,10 +58,12 @@ surge
 
 ## Shiftit for Mac
 Simple, easy-to-use window-mover:
+
 https://github.com/onsi/shiftit
 
 ## Slack
 Great team-communication tool:
+
 https://slack.com/
 
 
