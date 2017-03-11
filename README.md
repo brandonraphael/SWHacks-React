@@ -1,6 +1,8 @@
 # SWHacks-React
 
 ## Install Atom
+Great IDE with plenty of helpful addons for usability:
+
 https://atom.io/
 
 Atom should be usable from iterm, if it is not, try running this symlink command:
@@ -9,9 +11,13 @@ ln -s /Applications/Atom.app/Contents/Resources/app/atom.sh /usr/local/bin/atom
 ```
 
 ## Install Iterm2
+Improved terminal with windowing and much, much more:
+
 https://www.iterm2.com/
 
 ## Install Homebrew
+Better installer for mac:
+
 https://brew.sh/
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -45,6 +51,11 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 git commit -m "first commit"
 git push --set-upstream origin master
+```
+
+## Install Jquery
+```bash
+npm install --save jquery
 ```
 
 ## Install Surge.js and build your React app to display it on the web
