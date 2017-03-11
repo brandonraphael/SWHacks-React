@@ -23,7 +23,8 @@ brew install node
 npm install -g create-react-app
 create-react-app MY_APP_NAME
 cd MY_APP_NAME
-npm start```
+npm start
+```
 
 
 
