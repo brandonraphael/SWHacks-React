@@ -65,7 +65,17 @@ npm run build
 surge
 ```
 
-# Other suggested Installs
+# Other suggested Installs, React Add-Ons, and General Software Development Tools
+## React-Router
+Declarative routing for React: 
+
+https://github.com/ReactTraining/react-router/tree/master/packages/react-router
+
+## Express.js 
+
+Common web frame work for web apps:
+
+https://expressjs.com/
 
 ## Shiftit for Mac
 Simple, easy-to-use window-mover:
