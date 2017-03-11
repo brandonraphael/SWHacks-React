@@ -53,5 +53,15 @@ npm run build
 surge
 ```
 
+# Other suggested Installs
+
+## Shiftit for Mac
+Simple, easy-to-use window-mover:
+https://github.com/onsi/shiftit
+
+## Slack
+Great team-communication tool:
+https://slack.com/
+
 
 
